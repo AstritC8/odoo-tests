@@ -1,0 +1,12 @@
+# Node / Playwright
+node_modules/
+playwright-report/
+test-results/
+junit.xml
+
+# Python
+__pycache__/
+
+# Docker
+*.env
+.env
